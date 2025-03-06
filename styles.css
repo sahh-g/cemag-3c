@@ -108,12 +108,12 @@ h2 {
 }
 
 .fundo-galeria {
-    background: url('flor-bottom-direita.png') bottom right no-repeat;
+    background: url('img/image\ copy\ 3.png') bottom right no-repeat;
     background-size: 180px 180px;
 }
 
 #contato {
-    background-image: url('4965007.jpg');
+    background-image: url('img/download.png');
     background-size: cover;
     padding: 4rem 0;
     /* Espaçamento interno para a seção de contato */
@@ -188,7 +188,7 @@ h2 {
     color: var(--alto-contraste-fundo)
 }
 
-.alto-contraste #tropicalia {
+.alto-contraste #Black Sabbath{
     background: none;
 }
 
