@@ -30,7 +30,7 @@ section {
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('img/download.png');
+    background-image: url('img/image\ copy\ 9.png');
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
@@ -80,7 +80,7 @@ section {
     margin-top: 3rem;
     margin-bottom: 3rem;
     background: url('img/image\ copy\ 3.png') top right no-repeat,
-        url('img/download.png') bottom left no-repeat;
+        url('img/image\ copy\ 9.png') bottom left no-repeat;
     background-size: 180px 180px;
     /* Ajuste o tamanho conforme necessário */
 }
@@ -113,7 +113,7 @@ h2 {
 }
 
 #contato {
-    background-image: url('img/download.png');
+    background-image: url('img/image\ copy\ 9.png');
     background-size: cover;
     padding: 4rem 0;
     /* Espaçamento interno para a seção de contato */
