@@ -185,7 +185,7 @@ h2 {
 .alto-contraste .formulario button,
 .alto-contraste .btn-primary{
     background-color: var(--alto-contraste-link);
-    color: var(--alto-contraste-fundo)
+    color: var(--baixo-contraste-fundo)
 }
 
 .alto-contraste #Black Sabbath{
@@ -193,7 +193,7 @@ h2 {
 }
 
 .alto-contraste #galeria {
-    background-color: var(--alto-contraste-fundo);
+    background-color: var(--baixo-contraste-fundo);
 }
 .alto-contraste .fundo-galeria {
     background: none;
